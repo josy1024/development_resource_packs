@@ -1,0 +1,26 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "OP Resource",
+		"description": "OP Resource Pack",
+		"uuid": "de5f33da-501f-08e6-59bf-7c817886b646",
+		"version": [1, 0, 5],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["JosyforJu"],
+		"generated_with": {
+			"blockbench_item_wizard": ["1.1.0"],
+			"blockbench_block_wizard": ["1.2.2"],
+			"blockbench_entity_wizard": ["1.5.1"]
+		}
+	},
+	"modules": [
+		{
+			"description": "OP Resource",
+			"type": "resources",
+			"uuid": "a448f5ff-3534-73af-d72a-8d4590d3b928",
+			"version": [1, 0, 0]
+		}
+	]
+}

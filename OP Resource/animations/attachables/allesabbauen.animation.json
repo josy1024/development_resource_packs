@@ -1,0 +1,26 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.allesabbauen.first_person_hold": {
+			"loop": true,
+			"bones": {
+				"root_item": {
+					"relative_to": {
+						"rotation": "entity"
+					},
+					"rotation": [-180, -12.49, -180],
+					"position": [0, 22, 5]
+				}
+			}
+		},
+		"animation.allesabbauen.third_person_hold": {
+			"loop": true,
+			"bones": {
+				"root_item": {
+					"rotation": [90, 0, 0],
+					"position": [0.5, 22.5, -0.5]
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"texture_data": {
+		"obgelbapfel": {
+			"textures": "textures/items/obgelbapfel.png"
+		},
+		"op_undercover": {
+			"textures": "textures/items/op_undercover.png"
+		},
+		"op_axt": {
+			"textures": "textures/items/op_axt.png"
+		},
+		"op_keule": {
+			"textures": "textures/items/op_keule.png"
+		},
+		"op_brustplatte": {
+			"textures": "textures/items/op_brustplatte.png"
+		},
+		"allesabbauen": {
+			"textures": "textures/items/allesabbauen.png"
+		},
+		"op_schwert": {
+			"textures": "textures/items/op_schwert.png"
+		}
+	}
+}

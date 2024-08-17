@@ -1,0 +1,26 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.op_keule.first_person_hold": {
+			"loop": true,
+			"bones": {
+				"root_item": {
+					"relative_to": {
+						"rotation": "entity"
+					},
+					"rotation": [-195.34664, -12.0579, -176.71874],
+					"position": [0, 23, 5]
+				}
+			}
+		},
+		"animation.op_keule.third_person_hold": {
+			"loop": true,
+			"bones": {
+				"root_item": {
+					"rotation": [68.04, 2.44, 12.51],
+					"position": [0.5, 22.5, -0.5]
+				}
+			}
+		}
+	}
+}

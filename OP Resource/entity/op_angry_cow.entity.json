@@ -1,0 +1,39 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "forju:op_angry_cow",
+			"min_engine_version": "1.8.0",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/op_angry_cow"
+			},
+			"geometry": {
+				"default": "geometry.op_angry_cow"
+			},
+			"animations": {
+				"walk": "animation.op_angry_cow.walk",
+				"look_at_target": "animation.common.look_at_target",
+				"baby_transform": "animation.op_angry_cow.baby_transform"
+			},
+			"scripts": {
+				"animate": [
+					{
+						"walk": "query.modified_move_speed"
+					},
+					"look_at_target",
+					{
+						"baby_transform": "query.is_baby"
+					}
+				]
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"base_color": "#1e958b",
+				"overlay_color": "#8e9fa3"
+			}
+		}
+	}
+}

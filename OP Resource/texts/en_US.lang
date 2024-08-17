@@ -1,0 +1,11 @@
+item.myname:op_schwert=OP Schwert
+item.forju:allesabbauen=allesabbauen
+item.forju:op_brustplatte=OP Brustplatte
+item.myname:op_keule=OP Keule
+item.forju:op_axt=OP Axt
+item.myname:op_undercover=OP Undercover
+tile.forju:op_ruin.name=OP Ruin
+tile.myname:op_rubin.name=OP Rubin
+item.forju:obgelbapfel=OP gelbApfel
+entity.forju:op_angry_cow.name=OP Angry Cow
+item.spawn_egg.entity.forju:op_angry_cow.name=Spawn OP Angry Cow
