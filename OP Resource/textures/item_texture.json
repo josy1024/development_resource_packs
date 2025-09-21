@@ -1,5 +1,8 @@
 {
 	"texture_data": {
+		"op_schild": {
+			"textures": "textures/items/op_schild.png"
+		},
 		"obgelbapfel": {
 			"textures": "textures/items/obgelbapfel.png"
 		},
