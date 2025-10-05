@@ -2,9 +2,9 @@
 	"format_version": 2,
 	"header": {
 		"name": "OP Resource",
-		"description": "OP Resource Pack",
+		"description": "OP Resource Pack 1.0.8",
 		"uuid": "de5f33da-501f-48e6-89bf-7c817886b646",
-		"version": [1, 0, 6],
+		"version": [1, 0, 8],
 		"min_engine_version": [1, 16, 0]
 	},
 	"metadata": {
@@ -17,10 +17,10 @@
 	},
 	"modules": [
 		{
-			"description": "OP Resource",
+			"description": "OP Resource 1.0.8",
 			"type": "resources",
-			"uuid": "a448f5ff-3534-73af-d72a-8d4590d3b928",
-			"version": [1, 0, 0]
+			"uuid": "a448f5ff-3534-43af-872a-8d4590d3b928",
+			"version": [1, 0, 8]
 		}
 	]
 }

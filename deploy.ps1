@@ -1,7 +1,9 @@
 $base = $PSSCRIPTROOT
 $destination = "C:\MineCraft\bedrock-server-latest\development_resource_packs"
 
-Remove-item -path $destination -Force
+Remove-item -path $destination -Force -Recurse
+
+New-Item -ItemType Directory $destination
 # Get all directories and files excluding .git folders
 $items = Get-ChildItem -Path $base -Recurse -Force | Where-Object {
     -not $_.FullName.Contains(".git")
