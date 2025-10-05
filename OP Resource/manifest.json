@@ -3,7 +3,7 @@
 	"header": {
 		"name": "OP Resource",
 		"description": "OP Resource Pack",
-		"uuid": "de5f33da-501f-08e6-59bf-7c817886b646",
+		"uuid": "de5f33da-501f-48e6-89bf-7c817886b646",
 		"version": [1, 0, 6],
 		"min_engine_version": [1, 16, 0]
 	},

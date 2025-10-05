@@ -3,8 +3,8 @@
 		"op_schild": {
 			"textures": "textures/items/op_schild.png"
 		},
-		"obgelbapfel": {
-			"textures": "textures/items/obgelbapfel.png"
+		"opgelbapfel": {
+			"textures": "textures/items/opgelbapfel.png"
 		},
 		"op_undercover": {
 			"textures": "textures/items/op_undercover.png"

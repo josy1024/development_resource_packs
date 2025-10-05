@@ -2,22 +2,22 @@
 	"format_version": "1.10.0",
 	"minecraft:attachable": {
 		"description": {
-			"identifier": "forju:obgelbapfel",
+			"identifier": "forju:opgelbapfel",
 			"render_controllers": ["controller.render.item_default"],
 			"materials": {
 				"default": "entity_alphatest",
 				"enchanted": "entity_alphatest_glint"
 			},
 			"textures": {
-				"default": "textures/entity/attachable/obgelbapfel",
+				"default": "textures/entity/attachable/opgelbapfel",
 				"enchanted": "textures/misc/enchanted_item_glint"
 			},
 			"geometry": {
-				"default": "geometry.obgelbapfel"
+				"default": "geometry.opgelbapfel"
 			},
 			"animations": {
-				"first_person_hold": "animation.obgelbapfel.first_person_hold",
-				"third_person_hold": "animation.obgelbapfel.third_person_hold"
+				"first_person_hold": "animation.opgelbapfel.first_person_hold",
+				"third_person_hold": "animation.opgelbapfel.third_person_hold"
 			},
 			"scripts": {
 				"animate": [
