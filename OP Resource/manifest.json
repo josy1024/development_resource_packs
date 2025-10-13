@@ -4,7 +4,7 @@
 		"name": "OP Resource",
 		"description": "OP Resource Pack 1.0.8",
 		"uuid": "de5f33da-501f-48e6-89bf-7c817886b646",
-		"version": [1, 0, 8],
+		"version": [1, 0, 9],
 		"min_engine_version": [1, 16, 0]
 	},
 	"metadata": {
@@ -20,7 +20,7 @@
 			"description": "OP Resource 1.0.8",
 			"type": "resources",
 			"uuid": "a448f5ff-3534-43af-872a-8d4590d3b928",
-			"version": [1, 0, 8]
+			"version": [1, 0, 9]
 		}
 	]
 }
